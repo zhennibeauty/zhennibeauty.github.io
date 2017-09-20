@@ -1,7 +1,7 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
-author: "Wferr"
+title:  "我的文艺范"
+subtitle: "苏州之旅"
+author: "珍妮"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
 date:   2015-04-20 12:12:12
